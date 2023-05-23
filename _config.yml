@@ -3,4 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Admittedly College Consulting
+tagline: Admittedly College Consulting
 description: Admittedly, we can help you get admitted.
