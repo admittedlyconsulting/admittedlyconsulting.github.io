@@ -2,7 +2,6 @@
 title: Admittedly College Consulting
 subtitle: Admittedly, we can help you get admitted
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
