@@ -1,3 +1,11 @@
+---
+title: Admittedly College Consulting
+subtitle: Admittedly, we can help you get admitted
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
+
 This is the sample website content.
 
 # Meet the team
