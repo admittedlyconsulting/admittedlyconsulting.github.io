@@ -10,7 +10,7 @@ td, th {
 }
 </style>
 
-| <div style="width:300px"><font color="#000000"> _ </font></div> | |
+| <div style="width:300px"><font color="#000000"> property </font></div> | |
 |---|---|
 | <img align="left" width="300" height="300" src="images/elvinlo.jpg"> | **[Elvin](https://www.linkedin.com/in/elvin-lo/)** is an incoming freshman at Harvard University concentrating in Computer Science and Mathematics. He has been named a Regeneron Science Talent Search Top 300 Scholar for his research on AI-driven drug discovery, qualified three times for the American Invitational Mathematics Examination, made the US National Chemistry Olympiad Honors List of the top 150 scorers, and competed in the USA Computing Olympiad Gold Division. He volunteers to teach English to Spanish-speaking immigrants at Neighbors Link in Mount Kisco and was given the Horace Greeley School Service Award. He is also an avid enthusiast of modular geometric origami. |
 | <img align="left" width="300" height="300" src="images/elvinlo.jpg"> | **Daphne** is an incoming freshman at Brown University concentrating in English. She has participated in numerous writing programs such as the Iowa Young Writers’ Studio and Bard College at Simon’s Rock Young Writers Workshop. She volunteers as an editor for Polyphony Lit and for A New Chance Animal Rescue. She has won numerous honors from the Scholastic Art and Writing Awards. She specializes in college consulting for humanities majors and essay editing. During her free time, Daphne loves biking on nearby trails. |
