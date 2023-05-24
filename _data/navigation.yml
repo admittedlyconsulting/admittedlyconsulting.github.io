@@ -1,2 +1,6 @@
 - name: Meet the team
   link: /bios/
+- name: Services
+  link: /services/
+- name: FAQs
+  link: /faqs/
