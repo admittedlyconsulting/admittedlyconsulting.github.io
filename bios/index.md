@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Meet the team
-menubar: docs_menu
 show_sidebar: false
 ---
 
