@@ -7,6 +7,17 @@ show_sidebar: false
 <style>
 body {
   display: grid;
+  padding: 2rem;
+  grid-template-columns: 300px 1fr;
+  gap: 1rem;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  font: 500 100%/1.5 system-ui;
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
 </style>
   
