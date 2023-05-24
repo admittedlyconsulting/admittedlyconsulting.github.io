@@ -7,7 +7,6 @@ show_sidebar: false
 <style>
 body {
   display: grid;
-  grid-template-columns: min-content 1fr;
 }
 </style>
   
