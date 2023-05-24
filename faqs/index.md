@@ -1,3 +1,9 @@
+---
+layout: page
+title: FAQs
+show_sidebar: false
+---
+
 <details>
     <summary><b> Do you offer help for applying to U.K. schools? </b></summary>
     <p style="margin-left: 25px;"> Daphne and Ethan are experienced with the U.K. application system, UCAS, and the viva voce required for admission to Oxford, Cambridge, and some other universities. You do not need to set up separate sessions for U.S. and U.K. application consulting. We can cover both systems at once. </p>
