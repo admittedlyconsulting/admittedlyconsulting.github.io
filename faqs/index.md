@@ -16,7 +16,7 @@ show_sidebar: false
 
 <details>
     <summary><b> Do you offer help for preparing application supplements (i.e., additional profiles) for writing, music, or research? </b></summary>
-    <p style="margin-left: 25px;"> We are experienced in various kinds of additional profiles. Daphne has submitted a writing portfolio, Ethan a music portfolio, and Elvin a research portfolio. We will help you construct and develop these profiles. </p><br>
+    <p style="margin-left: 25px;"> We are experienced in various kinds of additional profiles. Daphne has submitted a writing portfolio, Ethan a music portfolio, and Elvin a research portfolio. We will help you construct and develop these profiles in a way that complements your application. </p><br>
 </details>
 
 <details>
