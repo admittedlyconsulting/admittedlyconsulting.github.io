@@ -4,7 +4,7 @@ title: Meet the team
 show_sidebar: false
 ---
 
-<img align="left" width="150" height="150" src="images/elvinlo.jpg" style="vertical-align:middle;margin:0px 25px">
+<img align="left" width="150" height="150" src="images/elvinlo.jpg" style="vertical-align:middle;margin:0px 0px">
 <p> <b><a href="https://www.linkedin.com/in/elvin-lo/">Elvin</a></b> is an incoming freshman at Harvard University concentrating in Computer Science and Mathematics. He has been named a Regeneron Science Talent Search Top 300 Scholar for his research on AI-driven drug discovery, qualified three times for the American Invitational Mathematics Examination, made the US National Chemistry Olympiad Honors List of the top 150 scorers, and competed in the USA Computing Olympiad Gold Division. He volunteers to teach English to Spanish-speaking immigrants at Neighbors Link in Mount Kisco and was given the Horace Greeley School Service Award. He is also an avid enthusiast of modular geometric origami. </p>
 
 <img align="left" width="150" height="150" src="images/elvinlo.jpg" style="vertical-align:middle;margin:0px 0px">
