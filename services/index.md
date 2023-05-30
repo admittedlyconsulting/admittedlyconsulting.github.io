@@ -38,5 +38,5 @@ We recommend consulting two members together to obtain a wider perspective on th
 Note that before our consulting sessions, we may ask you to prepare some materials to assist us. For example, we hope you can prepare a resume or some other list of your extracurriculars and awards. Also, if you are a rising senior who has already drafted several essays, we will likely ask you to share your essays with us before the session. <br/>
 
 If you are interested in working with us, please follow either (a) or (b):
-1. If you have some questions for us, please contact us at our email: admittedly[dot]consulting[at]gmail[dot]com
-2. If you feel confident that you are interested in working with us, then please fill out this Google form, and we’ll get back to you soon!
+1. If you have some questions for us, please contact us at our email: **admittedly[dot]consulting[at]gmail[dot]com**
+2. If you feel confident that you are interested in working with us, then please fill out [this Google form](https://forms.gle/N2SCyyiekWSVpZQ66), and we’ll get back to you soon!
