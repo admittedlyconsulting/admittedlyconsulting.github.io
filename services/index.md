@@ -11,7 +11,7 @@ We offer **one hour consulting sessions** in which we may discuss various parts 
 
 We understand that students in different grades and different points in the college process require very different forms of assistance. Accordingly, we invite you to prepare questions (whether close- or open-ended) and voice your main areas of concern with your application, and we are happy to meet your specific requests as best we can. <br/>
 
-This being said, below we have listed some common areas in which we believe we can help you:
+Below we have listed some common areas in which we believe we can help you:
 - Writing the application (rising seniors)
   - Brainstorming and revising essays
   - Writing the extracurricular list
@@ -33,10 +33,10 @@ Currently, we are offering two plans for consulting sessions:
 - Consultation with one team member of your choosing **($80 per hour)**
 - Consultation with two team members of your choosing **($120 per hour)**
 
-We recommend consulting two members together to obtain a wider perspective on the college application process, however consulting one member may be sufficient if your goals correspond very well to a particular member’s profile and experiences. <br/>
+We recommend consulting two members together to obtain a wider perspective on the college application process; however, consulting one member may be sufficient if your goals correspond very well to a particular member’s profile and experiences.
 
-Note that before our consulting sessions, we may ask you to prepare some materials to assist us. For example, we hope you can prepare a resume or some other list of your extracurriculars and awards. Also, if you are a rising senior who has already drafted several essays, we will likely ask you to share your essays with us before the session. <br/>
+Note that before our consulting sessions, we may ask you to prepare some materials to assist us. For example, we hope you can prepare a resume or some other list of your extracurriculars and awards. Also, if you are a rising senior who has already drafted several essays, we will likely ask you to share your essays with us before the session.
 
 If you are interested in working with us, please follow either (1) or (2):
-1. If you have some questions for us, please contact us at our email: **admittedly[dot]consulting[at]gmail[dot]com**
+1. If you have some questions for us, please contact us at our email: **admittedly.consulting@gmail.com**
 2. If you feel confident that you are interested in working with us, then please fill out [this Google form](https://forms.gle/N2SCyyiekWSVpZQ66), and we’ll get back to you soon!
