@@ -24,7 +24,7 @@ This being said, below we have listed some common areas in which we believe we c
   - Helping to choose colleges to apply to
   - Brainstorming general ideas for your future college essays
 
-Note that we are happy to share our personal experiences and anecdotes with our own college applications.
+Especially in the case of essay writing (in which it is crucial to undergo many rounds of review), it may be advisable to have several consulting sessions. Also note that we are happy to share our personal experiences and anecdotes with our own college applications. 
 
 
 # Pricing
