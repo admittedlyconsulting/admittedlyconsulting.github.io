@@ -4,6 +4,8 @@ title: Services
 show_sidebar: false
 ---
 
+# Overview
+
 We offer **one hour consulting sessions** in which we may discuss various parts of your application, including (but not limited to) your resume, extracurriculars, courses to take in school, and writing the college application itself. <br/>
 
 
