@@ -16,10 +16,10 @@ show_sidebar: false
 
 <details>
     <summary><b> Do you offer help for preparing application supplements (i.e., additional profiles) for writing, music, or research? </b></summary>
-    <p style="margin-left: 25px;"> We are experienced in various kinds of additional profiles. Daphne has submitted a writing portfolio, Ethan a music portfolio, and Elvin a research portfolio. We will help you construct and develop these profiles in a way that complements your application. </p><br>
+    <p style="margin-left: 25px;"> We are experienced in various kinds of additional profiles. Daphne has submitted a writing portfolio, Elvin a research portfolio, and Ethan both a music and research portfolio. We will help you construct and develop these profiles in a way that complements your application. </p><br>
 </details>
 
 <details>
     <summary><b> How do I go about conducting research as a high school student? </b></summary>
-    <p style="margin-left: 25px;"> Conducting research with professors or industry researchers is becoming prominent among high-achieving students, especially those in the tri-state area. Research can signify a student’s exceptional motivation and ability outside of classes. Elvin and Ethan have experience conducting science research at IBM and UT Austin, and would be delighted to help you reach out to potential mentors. We also keep a list of competitive research programs (including several hidden gems) with tips on how to get in. </p><br>
+    <p style="margin-left: 25px;"> Conducting research with professors or industry researchers is becoming prominent among high-achieving students, especially those in the tri-state area. Research can signify a student’s exceptional motivation and ability outside of classes. Elvin and Ethan have experience conducting science research at IBM and UT Austin, respectively, and would be delighted to help you reach out to potential mentors. We also keep a list of competitive research programs (including several hidden gems) with tips on how to get in. </p><br>
 </details>
